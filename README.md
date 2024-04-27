@@ -5,7 +5,7 @@
 
 ## Hi there! 👋
 
-I'm *Bhanu Pratap, a passionate learner and a student. I am currently exploring the exciting fields of **Blockchain Technology* and *Machine Learning. I'm always on the lookout for opportunities to collaborate on **Open Source Projects*.
+I'm *Bhanu Pratap*, a passionate learner and a student. I am currently exploring the exciting fields of *Blockchain Technology* and *Machine Learning*. I'm always on the lookout for opportunities to collaborate on *Open Source Projects*.
 
 - 🌱 I’m currently *Full Stack Developer* 
 - 💬 Ask me about *C++,React,Node.js,Express,MySQL, MongoDBWeb Development, and Blockchain Development* - I'm happy to help!
